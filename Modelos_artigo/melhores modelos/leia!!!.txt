@@ -1,0 +1,1 @@
+Este modelo foi feito SEM transformações, sem dropout e com average pooling!! mesmo assim foi o melhor treinado com dados reais até agora.

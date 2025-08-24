@@ -1,0 +1,1 @@
+dados reais de 2 em 2 com dropout, transformações e max pooling

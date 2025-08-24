@@ -1,0 +1,6 @@
+dados sintéticos com dropout, transformações e max pooling
+
+
+Todos os arquivos aqui foram feitos com MAX pooling!!!
+
+tente usar o average pooling para ver o que muda
